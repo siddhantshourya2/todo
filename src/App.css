@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+.sid-button {
+  min-width: 95px;
+}
+
+.sid-row{
+  margin: 10px 5px;
+}
